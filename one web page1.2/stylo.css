@@ -291,7 +291,7 @@ h2 {
 }
 
 img {
-    margin-bottom: -4px;
+    margin-bottom: -20px;
 }
 
 .caption-container {
@@ -299,7 +299,6 @@ img {
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
     background-color: black;
-    padding: 2px 16px;
     color: black;
 }
 
